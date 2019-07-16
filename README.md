@@ -1,2 +1,0 @@
-# thoughtwork-test
-test
